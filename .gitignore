@@ -1,0 +1,8 @@
+Anleitung/documents/
+
+Anleitung/*aux
+Anleitung/*.log
+Anleitung/*.fdb_latexmk
+Anleitung/*.fls
+Anleitung/*.tex
+Anleitung/*.synctex.gz
